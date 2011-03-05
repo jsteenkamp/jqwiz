@@ -1,0 +1,7 @@
+Create you quizzes in Google Docs spreadsheets. 
+
+Use a public (read-only) spreadsheet so that YQL can access it.
+
+Create separate sheets for each quiz. You can also use a sheet to list and link to available quizzes.
+
+YQL is used to query and parse the Google docs spreadsheet to JSON that can be used by jQwiz.
