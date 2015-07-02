@@ -8,7 +8,9 @@ Create quizzes in Google Docs spreadsheets.
 
 Example spreadsheet: 
 
-```https://spreadsheets.google.com/ccc?key=0ApY46l664W_jdFY1SDZGanF4ellYSzVxZzZ0QVFkSEE&hl=en&authkey=CMLuyfkO```
+```
+https://spreadsheets.google.com/ccc?key=0ApY46l664W_jdFY1SDZGanF4ellYSzVxZzZ0QVFkSEE&hl=en&authkey=CMLuyfkO
+```
 
 The spreadsheet permission are set to public (read-only) spreadsheet so that YQL can access it.
 
