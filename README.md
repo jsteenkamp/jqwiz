@@ -1,6 +1,6 @@
 ## Demo
 
-http://steenkamp.co.nz/demo/jqwiz/
+http://orbital.co.nz/demo/jqwiz/
 
 ## Details
 
